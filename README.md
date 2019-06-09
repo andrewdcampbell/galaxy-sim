@@ -4,7 +4,7 @@
 
 <img src="https://aparikh98.github.io/CosmologicalSimulation/images/demo.png" width="70%">
 
-A modified version of my final project for CS184: Computer Graphics at UC Berkeley in Spring 2019, developed by me and two other collaborators. See the original project report with more information and references [here](https://aparikh98.github.io/CosmologicalSimulation/), or the project video [here](https://youtu.be/ROuIVfnqMWk). Note that this app is largely based on [@magwo's fullofstars](https://github.com/magwo/fullofstars) repo.
+A modified version of my final project for CS184: Computer Graphics at UC Berkeley in Spring 2019, developed by me and two other collaborators. See the original project report with more information and references [here](https://andrewdcampbell.github.io/galaxy-sim-report), or the project video [here](https://youtu.be/ROuIVfnqMWk). Note that this app is largely based on [@magwo's fullofstars](https://github.com/magwo/fullofstars) repo.
 
 ---
 
